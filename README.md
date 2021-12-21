@@ -4,6 +4,6 @@ This repository are used for challenging myself about slicing design from given 
 
 | **Difficulty** | **Challenges** |
 |---|---|
-| NEWBIE | [3-Column-Preview-Card-Component](https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-lr5LzKHgf) &nbsp;    |
+| NEWBIE | [3-Column-Preview-Card-Component](https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-lr5LzKHgf) &nbsp; &nbsp; |
 | NEWBIE | [Stats-Preview-Card-Component](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-ISEkuUCSN) |
 |   |   |
