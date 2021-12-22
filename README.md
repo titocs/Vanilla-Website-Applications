@@ -12,3 +12,4 @@ This repository are used for challenging myself about slicing design from given 
 | | |
 
 ### 3 Column Preview Card
+![3 Column Preview Card](/images/3ColumnPreviewCard.png)
