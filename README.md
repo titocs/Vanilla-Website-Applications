@@ -6,4 +6,7 @@ This repository are used for challenging myself about slicing design from given 
 |---|---|
 | NEWBIE | [3-Column-Preview-Card-Component](https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-lr5LzKHgf) &nbsp; &nbsp; &nbsp; &nbsp;|
 | NEWBIE | [Stats-Preview-Card-Component](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-ISEkuUCSN) &nbsp; &nbsp; &nbsp; &nbsp;|
-|   |   |
+| JUNIOR | [Pricing-Component-With-Toggle](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-2cR2RZGhK) &nbsp; &nbsp; &nbsp; &nbsp;|
+| | |
+| | |
+| | |
