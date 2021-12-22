@@ -21,7 +21,7 @@ Preview Site: https://titocs.github.io/insight/ <br>
 Code Solution: https://github.com/titocs/insight
 
 ### NFT Preview Card Component
-![NFT Preview Card](/images/NfTreview.png)
+![NFT Preview Card](/images/NfTpreview.png)
 Preview Site: https://titocs.github.io/nft-preview-card-component-main/ <br>
 Code Solution: https://github.com/titocs/nft-preview-card-component-main
 
