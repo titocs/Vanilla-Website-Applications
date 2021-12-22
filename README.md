@@ -13,5 +13,5 @@ This repository are used for challenging myself about slicing design from given 
 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
-Preview site: [Preview](https://titocs.github.io/3-column-preview-card-component-main/)
-Code: https://github.com/titocs/3-column-preview-card-component-main
+Preview site: https://titocs.github.io/3-column-preview-card-component-main/ <br>
+Code Solution: https://github.com/titocs/3-column-preview-card-component-main
