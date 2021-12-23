@@ -3,13 +3,13 @@
 This repository are used for challenging myself about slicing design from given design. Also, i didnt buy the pro version from this websites, therefore i dont have access to any design files relying only on my vision and approximation
 
 | **Difficulty** | **Challenges** | **Date Created** |
-|---|---|
-| NEWBIE | [3 Column Preview Card Component](#3-column-preview-card) &nbsp; &nbsp; &nbsp; &nbsp;|
+|---|---|---|
+| NEWBIE | [3 Column Preview Card Component](#3-column-preview-card) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | NEWBIE | [Stats Preview Card Component](#stats-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;| 02 November 2021 |
-| NEWBIE | [NFT Preview Card Component](#nft-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;|
-| NEWBIE | [Ping Single Column Coming Soon Page](#ping-single-column-coming-soon-page) &nbsp; &nbsp; &nbsp; &nbsp;|
-| JUNIOR | [Pricing-Component-With-Toggle](#pricing-component-with-toggle) &nbsp; &nbsp; &nbsp; &nbsp;|
-| JUNIOR | [Fylo Data Storage Component](https://www.frontendmentor.io/solutions/fylodatastoragecomponentmaster-NVJtBst4y) &nbsp; &nbsp; &nbsp; &nbsp;|
+| NEWBIE | [NFT Preview Card Component](#nft-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;| |
+| NEWBIE | [Ping Single Column Coming Soon Page](#ping-single-column-coming-soon-page) &nbsp; &nbsp; &nbsp; &nbsp;| |
+| JUNIOR | [Pricing-Component-With-Toggle](#pricing-component-with-toggle) &nbsp; &nbsp; &nbsp; &nbsp;| |
+| JUNIOR | [Fylo Data Storage Component](https://www.frontendmentor.io/solutions/fylodatastoragecomponentmaster-NVJtBst4y) &nbsp; &nbsp; &nbsp; &nbsp;| |
 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
