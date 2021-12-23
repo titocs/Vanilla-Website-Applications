@@ -28,7 +28,7 @@ Code Solution: https://github.com/titocs/nft-preview-card-component-main
 
 ### Ping Single Column Coming Soon Page
 ![Ping Single Column](/images/PingSingle.png)
-Preview Site: https://titocs.github.io/ping-coming-soon-page-master/
+Preview Site: https://titocs.github.io/ping-coming-soon-page-master/ <br>
 Code Solution: https://github.com/titocs/ping-coming-soon-page-master
 
 ### Pricing Component With Toggle
