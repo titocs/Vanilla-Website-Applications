@@ -4,7 +4,7 @@ This repository are used for challenging myself about slicing design from given 
 
 | **Difficulty** | **Challenges** | **Date Created** |
 |---|---|---|
-| NEWBIE | [3 Column Preview Card Component](#3-column-preview-card) &nbsp; &nbsp; &nbsp; &nbsp;| |
+| NEWBIE | [3 Column Preview Card Component](#3-column-preview-card) &nbsp; &nbsp; &nbsp; &nbsp;| 07 November 2021 |
 | NEWBIE | [Stats Preview Card Component](#stats-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;| 02 November 2021 |
 | NEWBIE | [NFT Preview Card Component](#nft-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | NEWBIE | [Ping Single Column Coming Soon Page](#ping-single-column-coming-soon-page) &nbsp; &nbsp; &nbsp; &nbsp;| |
