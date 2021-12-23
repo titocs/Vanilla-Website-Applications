@@ -7,6 +7,7 @@ This repository are used for challenging myself about slicing design from given 
 | NEWBIE | [3 Column Preview Card Component](#3-column-preview-card) &nbsp; &nbsp; &nbsp; &nbsp;|
 | NEWBIE | [Stats Preview Card Component](#stats-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;|
 | NEWBIE | [NFT Preview Card Component](#nft-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;|
+| NEWBIE | [Ping Single Column Coming Soon Page](#ping-single-column-coming-soon-page) &nbsp; &nbsp; &nbsp; &nbsp;|
 | JUNIOR | [Pricing-Component-With-Toggle](#pricing-component-with-toggle) &nbsp; &nbsp; &nbsp; &nbsp;|
 | JUNIOR | [Fylo Data Storage Component](https://www.frontendmentor.io/solutions/fylodatastoragecomponentmaster-NVJtBst4y) &nbsp; &nbsp; &nbsp; &nbsp;|
 
@@ -24,6 +25,11 @@ Code Solution: https://github.com/titocs/insight
 ![NFT Preview Card](/images/NfTpreviewcard.png)
 Preview Site: https://titocs.github.io/nft-preview-card-component-main/ <br>
 Code Solution: https://github.com/titocs/nft-preview-card-component-main
+
+### Ping Single Column Coming Soon Page
+![Ping Single Column](/images/PingSingle.png)
+Preview Site: https://titocs.github.io/ping-coming-soon-page-master/
+Code Solution: https://github.com/titocs/ping-coming-soon-page-master
 
 ### Pricing Component With Toggle
 ![Pricing Component](/images/pricing-component.png)
