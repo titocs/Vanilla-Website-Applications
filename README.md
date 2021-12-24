@@ -8,6 +8,7 @@ This repository are used for challenging myself about slicing design from given 
 | NEWBIE | [Stats Preview Card Component](#stats-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;| 02 November 2021 |
 | NEWBIE | [NFT Preview Card Component](#nft-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | NEWBIE | [Ping Single Column Coming Soon Page](#ping-single-column-coming-soon-page) &nbsp; &nbsp; &nbsp; &nbsp;| |
+| NEWBIE | [Order Summary Component](#order-summary-Component) &nbsp; &nbsp; &nbsp; &nbsp;| 14 November 2021 |
 | JUNIOR | [Pricing-Component-With-Toggle](#pricing-component-with-toggle) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | JUNIOR | [Fylo Data Storage Component](https://www.frontendmentor.io/solutions/fylodatastoragecomponentmaster-NVJtBst4y) &nbsp; &nbsp; &nbsp; &nbsp;| |
 
@@ -30,6 +31,11 @@ Code Solution: https://github.com/titocs/nft-preview-card-component-main
 ![Ping Single Column](/images/PingSingle.png)
 Preview Site: https://titocs.github.io/ping-coming-soon-page-master/ <br>
 Code Solution: https://github.com/titocs/ping-coming-soon-page-master
+
+### Order Summary Component
+![Order Summary](/images/ordersummary.png)
+Preview Site: https://titocs.github.io/order-summary-component-main/ <br>
+Code Solution: https://github.com/titocs/order-summary-component-main
 
 ### Pricing Component With Toggle
 ![Pricing Component](/images/pricing-component.png)
