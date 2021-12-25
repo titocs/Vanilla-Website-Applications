@@ -39,7 +39,7 @@ Preview Site: https://titocs.github.io/order-summary-component-main/ <br>
 Code Solution: https://github.com/titocs/order-summary-component-main
 
 ### Social Proof Section
-![Social Proof Section](/images/socialproof.png
+![Social Proof Section](/images/socialproof.png)
 Preview Site: https://titocs.github.io/social-proof-section-master/ <br>
 Code Solution: https://github.com/titocs/social-proof-section-master
 
