@@ -9,6 +9,7 @@ This repository are used for challenging myself about slicing design from given 
 | NEWBIE | [NFT Preview Card Component](#nft-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | NEWBIE | [Ping Single Column Coming Soon Page](#ping-single-column-coming-soon-page) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | NEWBIE | [Order Summary Component](#order-summary-Component) &nbsp; &nbsp; &nbsp; &nbsp;| 14 November 2021 |
+| NEWBIE | [Social Proof Section](#social-proof-section) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | JUNIOR | [Pricing-Component-With-Toggle](#pricing-component-with-toggle) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | JUNIOR | [Fylo Data Storage Component](https://www.frontendmentor.io/solutions/fylodatastoragecomponentmaster-NVJtBst4y) &nbsp; &nbsp; &nbsp; &nbsp;| |
 
@@ -36,6 +37,11 @@ Code Solution: https://github.com/titocs/ping-coming-soon-page-master
 ![Order Summary](/images/ordersummary.png)
 Preview Site: https://titocs.github.io/order-summary-component-main/ <br>
 Code Solution: https://github.com/titocs/order-summary-component-main
+
+### Social Proof Section
+![Social Proof Section](/images/socialproof.png
+Preview Site: https://titocs.github.io/social-proof-section-master/ <br>
+Code Solution: https://github.com/titocs/social-proof-section-master
 
 ### Pricing Component With Toggle
 ![Pricing Component](/images/pricing-component.png)
