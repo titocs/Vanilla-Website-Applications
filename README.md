@@ -12,6 +12,7 @@ This repository are used for challenging myself about slicing design from given 
 | NEWBIE | [Social Proof Section](#social-proof-section) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | JUNIOR | [Pricing-Component-With-Toggle](#pricing-component-with-toggle) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | JUNIOR | [Fylo Data Storage Component](https://www.frontendmentor.io/solutions/fylodatastoragecomponentmaster-NVJtBst4y) &nbsp; &nbsp; &nbsp; &nbsp;| |
+| JUNIOR | [Tip Calculator App]()
 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
@@ -47,3 +48,8 @@ Code Solution: https://github.com/titocs/social-proof-section-master
 ![Pricing Component](/images/pricing-component.png)
 Preview Site: https://titocs.github.io/Pricing-Component-With-Toggle/ <br>
 Code Solution: https://github.com/titocs/Pricing-Component-With-Toggle
+
+### Tip Calculator App
+![Tip Calculator  App](/images/tipcal.png)
+Preview Site: https://titocs.github.io/Tip-Calculator-App/ <br>
+Code Solution: https://github.com/titocs/Tip-Calculator-App
