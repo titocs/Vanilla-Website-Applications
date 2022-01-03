@@ -7,6 +7,7 @@ This repository are used for challenging myself about slicing design from given 
 | NEWBIE | [3 Column Preview Card Component](#3-column-preview-card) &nbsp; &nbsp; &nbsp; &nbsp;| 07 November 2021 |
 | NEWBIE | [Stats Preview Card Component](#stats-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;| 02 November 2021 |
 | NEWBIE | [NFT Preview Card Component](#nft-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;| |
+| NEWBIE | [Single Price](#single-price-grid) &nbsp; &nbsp; &nbsp; &nbsp;| 03 January 2022 |
 | NEWBIE | [Ping Single Column Coming Soon Page](#ping-single-column-coming-soon-page) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | NEWBIE | [Order Summary Component](#order-summary-Component) &nbsp; &nbsp; &nbsp; &nbsp;| 14 November 2021 |
 | NEWBIE | [Social Proof Section](#social-proof-section) &nbsp; &nbsp; &nbsp; &nbsp;| |
@@ -28,6 +29,11 @@ Code Solution: https://github.com/titocs/insight
 ![NFT Preview Card](/images/NfTpreviewcard.png)
 Preview Site: https://titocs.github.io/nft-preview-card-component-main/ <br>
 Code Solution: https://github.com/titocs/nft-preview-card-component-main
+
+### Single Price Grid
+![Single Price](/images/SinglePrice.png)
+Preview Site: https://titocs.github.io/Single-price-grid-component/ <br>
+Code Solution: https://github.com/titocs/Single-price-grid-component
 
 ### Ping Single Column Coming Soon Page
 ![Ping Single Column](/images/PingSingle.png)
