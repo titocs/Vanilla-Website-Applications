@@ -21,7 +21,7 @@ Preview Site: https://titocs.github.io/3-column-preview-card-component-main/ <br
 Code Solution: https://github.com/titocs/3-column-preview-card-component-main
 
 ### Stats Preview Card Component
-![Stats Preview Card](/images/insight.PNG)
+![Stats Preview Card](/images/statss.png)
 Preview Site: https://titocs.github.io/stats-preview-card-component/ <br>
 Code Solution: https://github.com/titocs/stats-preview-card-component
 
