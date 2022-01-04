@@ -22,8 +22,8 @@ Code Solution: https://github.com/titocs/3-column-preview-card-component-main
 
 ### Stats Preview Card Component
 ![Stats Preview Card](/images/insight.PNG)
-Preview Site: https://titocs.github.io/insight/ <br>
-Code Solution: https://github.com/titocs/insight
+Preview Site: https://titocs.github.io/stats-preview-card-component/ <br>
+Code Solution: https://github.com/titocs/stats-preview-card-component
 
 ### NFT Preview Card Component
 ![NFT Preview Card](/images/NfTpreviewcard.png)
