@@ -11,6 +11,7 @@ This repository are used for challenging myself about slicing design from given 
 | NEWBIE | [Ping Single Column Coming Soon Page](#ping-single-column-coming-soon-page) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | NEWBIE | [Order Summary Component](#order-summary-Component) &nbsp; &nbsp; &nbsp; &nbsp;| 14 November 2021 |
 | NEWBIE | [Social Proof Section](#social-proof-section) &nbsp; &nbsp; &nbsp; &nbsp;| |
+| NEWBIE | [Intro Component](#intro-component-with-signup) &nbsp; &nbsp; &nbsp; &nbsp;| 06 January 2022 |
 | JUNIOR | [Pricing-Component-With-Toggle](#pricing-component-with-toggle) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | JUNIOR | [Fylo Data Storage Component](https://www.frontendmentor.io/solutions/fylodatastoragecomponentmaster-NVJtBst4y) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | JUNIOR | [Tip Calculator App](#tip-calculator-app) &nbsp; &nbsp; &nbsp; &nbsp;| 27 December 2021 |
@@ -49,6 +50,11 @@ Code Solution: https://github.com/titocs/order-summary-component-main
 ![Social Proof Section](/images/socialproof.png)
 Preview Site: https://titocs.github.io/social-proof-section-master/ <br>
 Code Solution: https://github.com/titocs/social-proof-section-master
+
+### Intro Component With Signup
+![Intro Component](/images/introsign.PNG)
+Preview Site: https://titocs.github.io/intro-signup/
+Code Solution: https://github.com/titocs/intro-signup
 
 ### Pricing Component With Toggle
 ![Pricing Component](/images/pricing-component.png)
