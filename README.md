@@ -53,7 +53,7 @@ Code Solution: https://github.com/titocs/social-proof-section-master
 
 ### Intro Component With Signup
 ![Intro Component](/images/introsign.PNG)
-Preview Site: https://titocs.github.io/intro-signup/
+Preview Site: https://titocs.github.io/intro-signup/ <br>
 Code Solution: https://github.com/titocs/intro-signup
 
 ### Pricing Component With Toggle
