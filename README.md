@@ -15,6 +15,7 @@ This repository are used for challenging myself about slicing design from given 
 | JUNIOR | [Pricing-Component-With-Toggle](#pricing-component-with-toggle) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | JUNIOR | [Fylo Data Storage Component](https://www.frontendmentor.io/solutions/fylodatastoragecomponentmaster-NVJtBst4y) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | JUNIOR | [Tip Calculator App](#tip-calculator-app) &nbsp; &nbsp; &nbsp; &nbsp;| 27 December 2021 |
+| JUNIOR | [Testi Challenge](#testi) &nbsp; &nbsp; &nbsp; &nbsp;| 09 January 2022 |
 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
@@ -65,3 +66,8 @@ Code Solution: https://github.com/titocs/Pricing-Component-With-Toggle
 ![Tip Calculator  App](/images/tipcal.png)
 Preview Site: https://titocs.github.io/Tip-Calculator-App/ <br>
 Code Solution: https://github.com/titocs/Tip-Calculator-App
+
+### Testimonials Grid Section
+![Testi Ch](/images/testiChallenge.png)
+Preview Site: https://titocs.github.io/testimonials-grid-section/ <br>
+Code Solution: https://github.com/titocs/testimonials-grid-section
