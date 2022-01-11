@@ -34,8 +34,8 @@ Code Solution: https://github.com/titocs/nft-preview-card-component-main
 
 ### Single Price Grid
 ![Single Price](/images/SinglePrice.png)
-Preview Site: https://titocs.github.io/Single-price-grid-component/ <br>
-Code Solution: https://github.com/titocs/Single-price-grid-component
+Preview Site: https://titocs.github.io/single-price-component/ <br>
+Code Solution: https://github.com/titocs/single-price-component
 
 ### Ping Single Column Coming Soon Page
 ![Ping Single Column](/images/PingSingle.png)
