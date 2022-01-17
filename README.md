@@ -2,7 +2,7 @@
 
 This repository are used for challenging myself about slicing design from given design. Also, i didnt buy the pro version from this websites, therefore i dont have access to any design files relying only on my vision and approximation
 
-| **Difficulty** | **Challenges** | **Date Created** |
+| **Difficulty** | **Challenges** | **Publish Date** |
 |---|---|---|
 | NEWBIE | [3 Column Preview Card Component](#3-column-preview-card) &nbsp; &nbsp; &nbsp; &nbsp;| 07 November 2021 |
 | NEWBIE | [Stats Preview Card Component](#stats-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;| 02 November 2021 |
@@ -16,6 +16,7 @@ This repository are used for challenging myself about slicing design from given 
 | JUNIOR | [Fylo Data Storage Component](https://www.frontendmentor.io/solutions/fylodatastoragecomponentmaster-NVJtBst4y) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | JUNIOR | [Tip Calculator App](#tip-calculator-app) &nbsp; &nbsp; &nbsp; &nbsp;| 27 December 2021 |
 | JUNIOR | [Testi Challenge](#testi) &nbsp; &nbsp; &nbsp; &nbsp;| 09 January 2022 |
+| JUNIOR | [Sunnyside Agency](#sunnyside-agency-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 17 January 2022 |
 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
@@ -71,3 +72,8 @@ Code Solution: https://github.com/titocs/Tip-Calculator-App
 ![Testi Ch](/images/testiChallenge.png)
 Preview Site: https://titocs.github.io/testimonials-grid-section/ <br>
 Code Solution: https://github.com/titocs/testimonials-grid-section
+
+### Sunnyside Agency Landing Page
+![Sunnyside Agency](/images/sunny.png)
+Preview Site: https://titocs.github.io/sunnyside-agency-landing-page/ <br>
+Code Solution: https://github.com/titocs/sunnyside-agency-landing-page
