@@ -37,7 +37,8 @@ Code Solution: https://github.com/titocs/nft-preview-card-component-main
 ### Single Price Grid
 ![Single Price](/images/SinglePrice.png)
 Preview Site: https://titocs.github.io/single-price-component/ <br>
-Code Solution: https://github.com/titocs/single-price-component
+Code Solution: https://github.com/titocs/single-price-component <br>
+What I Learn: responsive.
 
 ### Ping Single Column Coming Soon Page
 ![Ping Single Column](/images/PingSingle.png)
@@ -52,7 +53,7 @@ Code Solution: https://github.com/titocs/order-summary-component-main
 ### Social Proof Section
 ![Social Proof Section](/images/socialproof.png)
 Preview Site: https://titocs.github.io/social-proof-section-master/ <br>
-Code Solution: https://github.com/titocs/social-proof-section-master
+Code Solution: https://github.com/titocs/social-proof-section-master <br>
 What I Learn: 
 
 ### Intro Component With Signup
@@ -70,7 +71,7 @@ What I Learn: making box animation.
 ![Pricing Component](/images/pricing-component.png)
 Preview Site: https://titocs.github.io/Pricing-Component-With-Toggle/ <br>
 Code Solution: https://github.com/titocs/Pricing-Component-With-Toggle <br>
-What I Learn: 
+What I Learn: change the price when toggle button clicked using innerHTML modification.
 
 ### Tip Calculator App
 ![Tip Calculator  App](/images/tipcal.png)
