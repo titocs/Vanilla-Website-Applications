@@ -88,5 +88,5 @@ Code Solution: https://github.com/titocs/testimonials-grid-section
 ![Sunnyside Agency](/images/sunny.png)
 Preview Site: https://titocs.github.io/sunnyside-agency-landing-page/ <br>
 Code Solution: https://github.com/titocs/sunnyside-agency-landing-page <br>
-What I Learn: displaying mobile menus.
+What I Learn: displaying mobile menus, using after/before pseudoclass for making border-bottom in "LEARN MORE" text and make it responsive & hover.
 
