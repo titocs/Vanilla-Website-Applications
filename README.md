@@ -53,6 +53,7 @@ Code Solution: https://github.com/titocs/order-summary-component-main
 ![Social Proof Section](/images/socialproof.png)
 Preview Site: https://titocs.github.io/social-proof-section-master/ <br>
 Code Solution: https://github.com/titocs/social-proof-section-master
+What I Learn: 
 
 ### Intro Component With Signup
 ![Intro Component](/images/introsign.PNG)
@@ -62,17 +63,20 @@ Code Solution: https://github.com/titocs/intro-signup
 ### Faq Accordion Card
 ![Faq Accordion](/images/faq.PNG)
 Preview Site: https://titocs.github.io/FAQ-accordion/ <br>
-Code Solution: https://github.com/titocs/FAQ-accordion
+Code Solution: https://github.com/titocs/FAQ-accordion <br>
+What I Learn: making box animation.
 
 ### Pricing Component With Toggle
 ![Pricing Component](/images/pricing-component.png)
 Preview Site: https://titocs.github.io/Pricing-Component-With-Toggle/ <br>
-Code Solution: https://github.com/titocs/Pricing-Component-With-Toggle
+Code Solution: https://github.com/titocs/Pricing-Component-With-Toggle <br>
+What I Learn: 
 
 ### Tip Calculator App
 ![Tip Calculator  App](/images/tipcal.png)
 Preview Site: https://titocs.github.io/Tip-Calculator-App/ <br>
-Code Solution: https://github.com/titocs/Tip-Calculator-App
+Code Solution: https://github.com/titocs/Tip-Calculator-App <br>
+What I Learn: Implementing basic arithmetic operation with vanillaJS by real time with "input" eventListener.
 
 ### Testimonials Grid Section
 ![Testi Ch](/images/testiChallenge.png)
@@ -82,4 +86,6 @@ Code Solution: https://github.com/titocs/testimonials-grid-section
 ### Sunnyside Agency Landing Page
 ![Sunnyside Agency](/images/sunny.png)
 Preview Site: https://titocs.github.io/sunnyside-agency-landing-page/ <br>
-Code Solution: https://github.com/titocs/sunnyside-agency-landing-page
+Code Solution: https://github.com/titocs/sunnyside-agency-landing-page <br>
+What I Learn: displaying mobile menus.
+
