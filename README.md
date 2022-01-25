@@ -59,7 +59,8 @@ What I Learn:
 ### Intro Component With Signup
 ![Intro Component](/images/introsign.PNG)
 Preview Site: https://titocs.github.io/intro-signup/ <br>
-Code Solution: https://github.com/titocs/intro-signup
+Code Solution: https://github.com/titocs/intro-signup <br>
+What I Learn: displaying error when the input doesnt match.
 
 ### Faq Accordion Card
 ![Faq Accordion](/images/faq.PNG)
