@@ -80,7 +80,7 @@ Frameworks: -
 ![Faq Accordion](/images/faq.PNG)
 Preview Site: https://titocs.github.io/FAQ-accordion/ <br>
 Code Solution: https://github.com/titocs/FAQ-accordion <br>
-What I Learn: making box animation. <br>
+What I Learn: making box animation, transform origin. <br>
 Frameworks: -
 
 ### Pricing Component With Toggle
