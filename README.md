@@ -18,7 +18,7 @@ This repository are used for challenging myself about slicing design from given 
 | JUNIOR | [Tip Calculator App](#tip-calculator-app) &nbsp; &nbsp; &nbsp; &nbsp;| 27 December 2021 |
 | JUNIOR | [Testi Challenge](#testi) &nbsp; &nbsp; &nbsp; &nbsp;| 09 January 2022 |
 | JUNIOR | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 17 January 2022 |
-| INTERMEDIATE | [Ecommerce Product Page](#ecommerce-product-page) &nbsp; &nbsp; &nbsp; &nbsp;| 17 January 2022 |
+| INTERMEDIATE | [Ecommerce Product Page](#ecommerce-product-page) &nbsp; &nbsp; &nbsp; &nbsp;| 27 January 2022 |
 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
@@ -108,6 +108,7 @@ What I Learn: displaying mobile menus, using after/before pseudoclass for making
 
 ### Ecommerce Product Page
 ![Ecommerce Product](images/sneakers.png)
-Preview Site: <br>
-Code Solution: <br>
+Preview Site: https://titocs.github.io/Ecommerce-Product-Page/ <br>
+Code Solution: https://github.com/titocs/Ecommerce-Product-Page <br>
 What I Learn: making animation for displaying mobile menus and displaying lightbox, close all menus if the document is clicked using stopPropagation method, event binding, set the minus margin to hovered element so it doesnt move.
+Frameworks: -
