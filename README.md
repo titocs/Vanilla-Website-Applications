@@ -23,51 +23,65 @@ This repository are used for challenging myself about slicing design from given 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
 Preview Site: https://titocs.github.io/3-column-preview-card-component-main/ <br>
-Code Solution: https://github.com/titocs/3-column-preview-card-component-main
+Code Solution: https://github.com/titocs/3-column-preview-card-component-main <br>
+What I Learn: <br>
+Frameworks: -
 
 ### Stats Preview Card Component
 ![Stats Preview Card](/images/statss.png)
 Preview Site: https://titocs.github.io/stats-preview-card-component/ <br>
-Code Solution: https://github.com/titocs/stats-preview-card-component
+Code Solution: https://github.com/titocs/stats-preview-card-component <br>
+What I Learn: <br>
+Frameworks: -
 
 ### NFT Preview Card Component
 ![NFT Preview Card](/images/NfTpreviewcard.png)
 Preview Site: https://titocs.github.io/nft-preview-card-component-main/ <br>
-Code Solution: https://github.com/titocs/nft-preview-card-component-main
+Code Solution: https://github.com/titocs/nft-preview-card-component-main <br>
+What I Learn: <br>
+Frameworks: -
 
 ### Single Price Grid
 ![Single Price](/images/SinglePrice.png)
 Preview Site: https://titocs.github.io/single-price-component/ <br>
 Code Solution: https://github.com/titocs/single-price-component <br>
 What I Learn: responsive.
+Frameworks: -
 
 ### Ping Single Column Coming Soon Page
 ![Ping Single Column](/images/PingSingle.png)
 Preview Site: https://titocs.github.io/ping-coming-soon-page-master/ <br>
-Code Solution: https://github.com/titocs/ping-coming-soon-page-master
+Code Solution: https://github.com/titocs/ping-coming-soon-page-master <br>
+What I Learn: <br>
+Frameworks: -
 
 ### Order Summary Component
 ![Order Summary](/images/ordersummary.png)
 Preview Site: https://titocs.github.io/order-summary-component-main/ <br>
-Code Solution: https://github.com/titocs/order-summary-component-main
+Code Solution: https://github.com/titocs/order-summary-component-main <br>
+What I Learn: <br>
+Frameworks: -
 
 ### Social Proof Section
 ![Social Proof Section](/images/socialproof.png)
 Preview Site: https://titocs.github.io/social-proof-section-master/ <br>
 Code Solution: https://github.com/titocs/social-proof-section-master <br>
-What I Learn: 
+What I Learn: <br>
+Frameworks: -
 
 ### Intro Component With Signup
 ![Intro Component](/images/introsign.PNG)
 Preview Site: https://titocs.github.io/intro-signup/ <br>
 Code Solution: https://github.com/titocs/intro-signup <br>
 What I Learn: displaying error when the input doesnt match.
+Frameworks: -
 
 ### Faq Accordion Card
 ![Faq Accordion](/images/faq.PNG)
 Preview Site: https://titocs.github.io/FAQ-accordion/ <br>
 Code Solution: https://github.com/titocs/FAQ-accordion <br>
-What I Learn: making box animation.
+What I Learn: making box animation. <br>
+Frameworks: -
 
 ### Pricing Component With Toggle
 ![Pricing Component](/images/pricing-component.png)
