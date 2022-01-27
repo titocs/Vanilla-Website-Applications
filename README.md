@@ -110,4 +110,4 @@ What I Learn: displaying mobile menus, using after/before pseudoclass for making
 ![Ecommerce Product]
 Preview Site: <br>
 Code Solution: <br>
-What I Learn: making animation for displaying mobile menus and displaying lightbox, close all menus if the document is clicked using stopPropagation method, event binding.
+What I Learn: making animation for displaying mobile menus and displaying lightbox, close all menus if the document is clicked using stopPropagation method, event binding, set the minus margin to hovered element so it doesnt move.
