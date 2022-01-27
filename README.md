@@ -107,7 +107,7 @@ Code Solution: https://github.com/titocs/sunnyside-agency-landing-page <br>
 What I Learn: displaying mobile menus, using after/before pseudoclass for making border-bottom in "LEARN MORE" text and make it responsive & hover.
 
 ### Ecommerce Product Page
-![Ecommerce Product]
+![Ecommerce Product](images/sneakers.png)
 Preview Site: <br>
 Code Solution: <br>
 What I Learn: making animation for displaying mobile menus and displaying lightbox, close all menus if the document is clicked using stopPropagation method, event binding, set the minus margin to hovered element so it doesnt move.
