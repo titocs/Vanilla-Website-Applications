@@ -110,5 +110,5 @@ What I Learn: displaying mobile menus, using after/before pseudoclass for making
 ![Ecommerce Product](images/sneakers.png)
 Preview Site: https://titocs.github.io/Ecommerce-Product-Page/ <br>
 Code Solution: https://github.com/titocs/Ecommerce-Product-Page <br>
-What I Learn: making animation for displaying mobile menus and displaying lightbox, close all menus if the document is clicked using stopPropagation method, event binding, set the minus margin to hovered element so it doesnt move.
+What I Learn: making animation for displaying mobile menus and displaying lightbox, close all menus if the document is clicked using stopPropagation method, event binding, set the minus margin to hovered element so it doesnt move. <br>
 Frameworks: -
