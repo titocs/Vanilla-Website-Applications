@@ -19,6 +19,7 @@ This repository are used for challenging myself about slicing design from given 
 | JUNIOR | [Testi Challenge](#testimonials-grid-section) &nbsp; &nbsp; &nbsp; &nbsp;| 09 January 2022 |
 | JUNIOR | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 17 January 2022 |
 | INTERMEDIATE | [Ecommerce Product Page](#ecommerce-product-page) &nbsp; &nbsp; &nbsp; &nbsp;| 27 January 2022 |
+| INTERMEDIATE | [Bookmark Landing Page](#bookmark) &nbsp; &nbsp; &nbsp; &nbsp;|  |
 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
