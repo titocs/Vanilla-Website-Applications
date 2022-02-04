@@ -19,7 +19,7 @@ This repository are used for challenging myself about slicing design from given 
 | JUNIOR | [Testi Challenge](#testimonials-grid-section) &nbsp; &nbsp; &nbsp; &nbsp;| 09 January 2022 |
 | JUNIOR | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 17 January 2022 |
 | INTERMEDIATE | [Ecommerce Product Page](#ecommerce-product-page) &nbsp; &nbsp; &nbsp; &nbsp;| 27 January 2022 |
-| INTERMEDIATE | [Bookmark Landing Page](#bookmark) &nbsp; &nbsp; &nbsp; &nbsp;|  |
+| INTERMEDIATE | [Bookmark Landing Page](#bookmark-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 04 February 2022 |
 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
@@ -112,4 +112,11 @@ What I Learn: displaying mobile menus, using after/before pseudoclass for making
 Preview Site: https://titocs.github.io/Ecommerce-Product-Page/ <br>
 Code Solution: https://github.com/titocs/Ecommerce-Product-Page <br>
 What I Learn: making animation for displaying mobile menus and displaying lightbox, close all menus if the document is clicked using stopPropagation method, event binding, set the minus margin to hovered element so it doesnt move. <br>
+Frameworks: -
+
+### Bookmark Landing Page
+![Bookmark Landing Page](images/bookmark.PNG)
+Preview Site: https://titocs.github.io/bookmark-landing-page/ <br>
+Code Solution: https://github.com/titocs/bookmark-landing-page <br>
+What I Learn: media Query on Javascript <br>
 Frameworks: -
