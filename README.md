@@ -25,70 +25,85 @@ This repository are used for challenging myself about slicing design from given 
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
 Preview Site: https://titocs.github.io/3-column-preview-card-component-main/ <br>
 Code Solution: https://github.com/titocs/3-column-preview-card-component-main <br>
+Tag: HTML, CSS, JS <br>
 Frameworks: -
 
 ### Stats Preview Card Component
 ![Stats Preview Card](/images/statss.png)
 Preview Site: https://titocs.github.io/stats-preview-card-component/ <br>
 Code Solution: https://github.com/titocs/stats-preview-card-component <br>
+Tag: HTML, CSS, JS <br>
 Frameworks: -
 
 ### NFT Preview Card Component
 ![NFT Preview Card](/images/NfTpreviewcard.png)
 Preview Site: https://titocs.github.io/nft-preview-card-component-main/ <br>
 Code Solution: https://github.com/titocs/nft-preview-card-component-main <br>
+Tag: HTML, CSS, JS <br>
 Frameworks: -
 
 ### Single Price Grid
 ![Single Price](/images/SinglePrice.png)
 Preview Site: https://titocs.github.io/single-price-component/ <br>
 Code Solution: https://github.com/titocs/single-price-component <br>
+Tag: HTML, CSS, JS <br>
 Frameworks: -
 
 ### Ping Single Column Coming Soon Page
 ![Ping Single Column](/images/PingSingle.png)
 Preview Site: https://titocs.github.io/ping-coming-soon-page-master/ <br>
 Code Solution: https://github.com/titocs/ping-coming-soon-page-master <br>
+Tag: HTML, CSS, JS <br>
 Frameworks: -
 
 ### Order Summary Component
 ![Order Summary](/images/ordersummary.png)
 Preview Site: https://titocs.github.io/order-summary-component-main/ <br>
 Code Solution: https://github.com/titocs/order-summary-component-main <br>
+Tag: HTML, CSS, JS <br>
 Frameworks: -
 
 ### Social Proof Section
 ![Social Proof Section](/images/socialproof.png)
 Preview Site: https://titocs.github.io/social-proof-section-master/ <br>
 Code Solution: https://github.com/titocs/social-proof-section-master <br>
+Tag: HTML, CSS, JS <br>
 Frameworks: -
 
 ### Intro Component With Signup
 ![Intro Component](/images/introsign.PNG)
 Preview Site: https://titocs.github.io/intro-signup/ <br>
 Code Solution: https://github.com/titocs/intro-signup <br>
+Tag: HTML, CSS, JS <br>
 Frameworks: -
 
 ### Faq Accordion Card
 ![Faq Accordion](/images/faq.PNG)
 Preview Site: https://titocs.github.io/FAQ-accordion/ <br>
 Code Solution: https://github.com/titocs/FAQ-accordion <br>
+Tag: HTML, CSS, JS <br>
 Frameworks: -
 
 ### Pricing Component With Toggle
 ![Pricing Component](/images/pricing-component.png)
 Preview Site: https://titocs.github.io/Pricing-Component-With-Toggle/ <br>
 Code Solution: https://github.com/titocs/Pricing-Component-With-Toggle <br>
+Tag: HTML, CSS, JS <br>
+Frameworks: -
 
 ### Tip Calculator App
 ![Tip Calculator  App](/images/tipcal.png)
 Preview Site: https://titocs.github.io/Tip-Calculator-App/ <br>
 Code Solution: https://github.com/titocs/Tip-Calculator-App <br>
+Tag: HTML, CSS, JS <br>
+Frameworks: -
 
 ### Testimonials Grid Section
 ![Testi Ch](/images/testiChallenge.png)
 Preview Site: https://titocs.github.io/testimonials-grid-section/ <br>
-Code Solution: https://github.com/titocs/testimonials-grid-section
+Code Solution: https://github.com/titocs/testimonials-grid-section <br>
+Tag: HTML, CSS, JS <br>
+Frameworks: -
 
 ### Sunnyside Agency Landing Page
 ![Sunnyside Agency](/images/sunny.png)
@@ -105,4 +120,5 @@ Frameworks: -
 ![Bookmark Landing Page](images/bookmark.PNG)
 Preview Site: https://titocs.github.io/bookmark-landing-page/ <br>
 Code Solution: https://github.com/titocs/bookmark-landing-page <br>
+Tag: HTML, CSS, JS <br>
 Frameworks: -
