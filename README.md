@@ -20,6 +20,7 @@ This repository are used for challenging myself about slicing design from given 
 | JUNIOR | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 17 January 2022 |
 | INTERMEDIATE | [Ecommerce Product Page](#ecommerce-product-page) &nbsp; &nbsp; &nbsp; &nbsp;| 27 January 2022 |
 | INTERMEDIATE | [Bookmark Landing Page](#bookmark-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 04 February 2022 |
+| INTERMEDIATE | [Easybank Landing Page](#easybank-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 04 February 2022 |
 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
