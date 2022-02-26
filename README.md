@@ -115,3 +115,11 @@ Preview Site: https://titocs.github.io/bookmark-landing-page/ <br>
 Code Solution: https://github.com/titocs/bookmark-landing-page <br>
 Tag: HTML, CSS, JS <br>
 Frameworks: -
+
+### Easybank Landing Page
+![Easybank Landing Page](images/easybank.PNG)
+Preview Site: https://titocs.github.io/Easybank-Landing-Page/ <br>
+Code Solution: https://github.com/titocs/Easybank-Landing-Page <br>
+Tag: HTML, CSS, JS <br>
+Frameworks: -
+
