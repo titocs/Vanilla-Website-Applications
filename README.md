@@ -17,9 +17,10 @@ This repository are used for challenging myself about slicing design from given 
 | JUNIOR | [Tip Calculator App](#tip-calculator-app) &nbsp; &nbsp; &nbsp; &nbsp;| 27 December 2021 |
 | JUNIOR | [Testi Challenge](#testimonials-grid-section) &nbsp; &nbsp; &nbsp; &nbsp;| 09 January 2022 |
 | JUNIOR | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 17 January 2022 |
+| JUNIOR | [Advice Generator App](#advice-generator-app) &nbsp; &nbsp; &nbsp; &nbsp;| 28 February 2022 |
 | INTERMEDIATE | [Ecommerce Product Page](#ecommerce-product-page) &nbsp; &nbsp; &nbsp; &nbsp;| 27 January 2022 |
 | INTERMEDIATE | [Bookmark Landing Page](#bookmark-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 04 February 2022 |
-| INTERMEDIATE | [Easybank Landing Page](#easybank-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 04 February 2022 |
+| INTERMEDIATE | [Easybank Landing Page](#easybank-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 06 February 2022 |
 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
@@ -102,6 +103,13 @@ Frameworks: -
 ![Sunnyside Agency](/images/sunny.png)
 Preview Site: https://titocs.github.io/sunnyside-agency-landing-page/ <br>
 Code Solution: https://github.com/titocs/sunnyside-agency-landing-page <br>
+
+### Advice Generator App
+![Advice Generator](/images/advice.png)
+Preview Site: https://titocs.github.io/Advice-Generator-App/ <br>
+Code Solution: https://github.com/titocs/Advice-Generator-App <br>
+Tag: HTML, CSS, JS, API <br>
+Frameworks: -
 
 ### Ecommerce Product Page
 ![Ecommerce Product](images/sneakers.png)
