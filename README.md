@@ -12,7 +12,7 @@ This repository are used for challenging myself about slicing design from given 
 | NEWBIE | [Order Summary Component](#order-summary-Component) &nbsp; &nbsp; &nbsp; &nbsp;| 14 November 2021 |
 | NEWBIE | [Intro Component](#intro-component-with-signup) &nbsp; &nbsp; &nbsp; &nbsp;| 06 January 2022 |
 | NEWBIE | [FAQ Accordion Card](#faq-accordion-card) &nbsp; &nbsp; &nbsp; &nbsp;| 19 January 2022 |
-| NEWBIE | [Interactive Rating](#interactive-rating) &nbsp; &nbps; &nbsp; &nbsp;| 27 April 2022
+| NEWBIE | [Interactive Rating](#interactive-rating) &nbsp; &nbsp; &nbsp; &nbsp;| 27 April 2022
 | JUNIOR | [Fylo Data Storage Component](https://www.frontendmentor.io/solutions/fylodatastoragecomponentmaster-NVJtBst4y) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | JUNIOR | [Tip Calculator App](#tip-calculator-app) &nbsp; &nbsp; &nbsp; &nbsp;| 27 December 2021 |
 | JUNIOR | [Testi Challenge](#testimonials-grid-section) &nbsp; &nbsp; &nbsp; &nbsp;| 09 January 2022 |
