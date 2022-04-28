@@ -12,7 +12,7 @@ This repository are used for challenging myself about slicing design from given 
 | NEWBIE | [Order Summary Component](#order-summary-Component) &nbsp; &nbsp; &nbsp; &nbsp;| 14 November 2021 |
 | NEWBIE | [Intro Component](#intro-component-with-signup) &nbsp; &nbsp; &nbsp; &nbsp;| 06 January 2022 |
 | NEWBIE | [FAQ Accordion Card](#faq-accordion-card) &nbsp; &nbsp; &nbsp; &nbsp;| 19 January 2022 |
-| JUNIOR | [Pricing-Component-With-Toggle](#pricing-component-with-toggle) &nbsp; &nbsp; &nbsp; &nbsp;| |
+| NEWBIE | [Interactive Rating](#interactive-rating) &nbsp; &nbps; &nbsp; &nbsp;| 27 April 2022
 | JUNIOR | [Fylo Data Storage Component](https://www.frontendmentor.io/solutions/fylodatastoragecomponentmaster-NVJtBst4y) &nbsp; &nbsp; &nbsp; &nbsp;| |
 | JUNIOR | [Tip Calculator App](#tip-calculator-app) &nbsp; &nbsp; &nbsp; &nbsp;| 27 December 2021 |
 | JUNIOR | [Testi Challenge](#testimonials-grid-section) &nbsp; &nbsp; &nbsp; &nbsp;| 09 January 2022 |
@@ -21,6 +21,7 @@ This repository are used for challenging myself about slicing design from given 
 | INTERMEDIATE | [Ecommerce Product Page](#ecommerce-product-page) &nbsp; &nbsp; &nbsp; &nbsp;| 27 January 2022 |
 | INTERMEDIATE | [Bookmark Landing Page](#bookmark-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 04 February 2022 |
 | INTERMEDIATE | [Easybank Landing Page](#easybank-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 06 February 2022 |
+| INTERMEDIATE | [Chat App Illustration](#chat-app-illustration) &nbsp; &nbsp; &nbsp; &nbsp;| 28 April 2022 |
 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
@@ -78,10 +79,10 @@ Code Solution: https://github.com/titocs/FAQ-accordion <br>
 Tag: HTML, CSS, JS <br>
 Frameworks: -
 
-### Pricing Component With Toggle
-![Pricing Component](/images/pricing-component.png)
-Preview Site: https://titocs.github.io/Pricing-Component-With-Toggle/ <br>
-Code Solution: https://github.com/titocs/Pricing-Component-With-Toggle <br>
+### Interactive Rating
+![Interactive Rating](images/interactiverating.jpg)
+Preview Site: https://titocs.github.io/interactive-rating/ <br>
+Code Solution: https://github.com/titocs/interactive-rating <br>
 Tag: HTML, CSS, JS <br>
 Frameworks: -
 
@@ -131,3 +132,9 @@ Code Solution: https://github.com/titocs/Easybank-Landing-Page <br>
 Tag: HTML, CSS, JS <br>
 Frameworks: -
 
+### Chat App Illustration
+![Chat App Illustration](images/chatapp.PNG)
+Preview Site: https://titocs.github.io/chat-app-illustration/ <br>
+Code Solution: https://github.com/titocs/chat-app-illustration <br>
+Tag: HTML, CSS <br>
+Frameworks: -
