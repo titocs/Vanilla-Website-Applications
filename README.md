@@ -23,6 +23,7 @@ This repository are used for challenging myself about slicing design from given 
 | INTERMEDIATE | [Easybank Landing Page](#easybank-landing-page) &nbsp; &nbsp; &nbsp; &nbsp;| 06 February 2022 |
 | INTERMEDIATE | [Chat App Illustration](#chat-app-illustration) &nbsp; &nbsp; &nbsp; &nbsp;| 28 April 2022 |
 | INTERMEDIATE | [Ip Address Tracker](#ip-address-tracker) &nbsp; &nbsp; &nbsp; &nbsp;| 02 August 2022 |
+| ADVANCED | [Rest Countries API](#rest-countries-api) &nbsp; &nbsp; &nbsp; &nbsp;| on the way |
 
 ### 3 Column Preview Card
 ![3 Column Preview Card](/images/3ColumnPreviewCard.png)
@@ -145,4 +146,11 @@ Frameworks: -
 Preview Site: https://titocs.github.io/ip-address-tracker/ <br>
 Code Solution: https://github.com/titocs/ip-address-tracker <br>
 Tag: HTML, PostCSS, JS, API <br>
+Frameworks: TailwindCSS
+
+### Rest Countries API
+![Rest Countries API](images/ipaddresstracker.png)
+Preview Site: https://titocs.github.io/ip-address-tracker/ <br>
+Code Solution: https://github.com/titocs/ip-address-tracker <br>
+Tag: HTML, PostCSS, JS, API, AJAX <br>
 Frameworks: TailwindCSS
