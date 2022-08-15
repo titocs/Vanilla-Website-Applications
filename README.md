@@ -152,5 +152,5 @@ Frameworks: TailwindCSS
 ![Rest Countries API](images/ipaddresstracker.png)
 Preview Site: https://titocs.github.io/ip-address-tracker/ <br>
 Code Solution: https://github.com/titocs/ip-address-tracker <br>
-Tag: HTML, PostCSS, JS, API, AJAX <br>
+Tag: HTML, PostCSS, JS, API, AJAX, Web Storage <br>
 Frameworks: TailwindCSS
