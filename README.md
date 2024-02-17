@@ -1,8 +1,8 @@
-# Frontendmentor-Solution
+# Vanilla Website Applications
 
-This repository are used for challenging myself about slicing design from given design. Also, i didnt buy the pro version from this websites, therefore i dont have access to any design files relying only on my vision and approximation
+This repository serves as my sandbox for refining my skills in web development using the essential trio: HTML, CSS, and JavaScript. Here, I'll be undertaking various projects, and exercises aimed at mastering web development without the aid of frameworks or libraries.
 
-| **Difficulty** | **Challenges** | **Publish Date** |
+| **Complexity Level** | **Web Themes** | **Publish Date** |
 |---|---|---|
 | NEWBIE | [3 Column Preview Card Component](#3-column-preview-card) &nbsp; &nbsp; &nbsp; &nbsp;| 07 November 2021 |
 | NEWBIE | [Stats Preview Card Component](#stats-preview-card-component) &nbsp; &nbsp; &nbsp; &nbsp;| 02 November 2021 |
